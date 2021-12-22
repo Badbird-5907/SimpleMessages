@@ -1,3 +1,0 @@
-name: SimpleMessages
-version: '${project.version}'
-main: net.badbird5907.simplemessages.SimpleMessagesBungeeCord
