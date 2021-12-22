@@ -1,0 +1,4 @@
+name: SimpleMessages
+version: '${project.version}'
+main: net.badbird5907.simplemessages.SimpleMessagesSpigot
+api-version: 1.18
